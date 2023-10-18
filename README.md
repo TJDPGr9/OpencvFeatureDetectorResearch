@@ -2,7 +2,9 @@
 
 对opencv策略模式的学习,以FeatureDetector为例
 FeatureDetetor是虚类，通过定义FeatureDetector的对象可以使用多种特征检测方法。通过create()函数调用
+
 任务分配：
+
 2人（田鑫阳、王佳蔚）： 理解FeatureDetetor虚类，并给出继承于它的子类 
 "FAST" – FastFeatureDetector 
 "STAR" – StarFeatureDetector 
