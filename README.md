@@ -22,4 +22,4 @@ FeatureDetetor是虚类，通过定义FeatureDetector的对象可以使用多种
 的代码解释和作用，根据策略模式画出虚类与五个子类的uml图
 
 1人（刘金硕）： 汇总工作，汇总代码解释、作用和uml图，绘制ppt上台答辩
-\\汇总时补充HARRIS、Dense、SimpleBlob
+\\汇总时补充了HARRIS、Dense、SimpleBlob
