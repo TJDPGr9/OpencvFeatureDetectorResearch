@@ -48,3 +48,7 @@
 	DenseDetector是 OpenCV 中的一个特征检测器类，用于检测密集的特征点，通常用于密集光流和密集匹配等计算机视觉任务。
 	10.SimpleBlob
 	SimpleBlobDetector 用于检测明亮的小斑点，这些斑点通常具有与周围区域不同的亮度或颜色。
+
+
+
+	AKAZE   KAZE    AgastFeatureDetector
